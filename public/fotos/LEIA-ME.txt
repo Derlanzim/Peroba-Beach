@@ -1,0 +1,4 @@
+Coloque aqui as fotos da pousada (JPG ou WebP, de preferência com menos de 400 KB cada).
+Depois, informe o caminho em:
+  - src/lib/site.ts      (foto do topo do site: fotos.hero, ex.: "/fotos/hero.jpg")
+  - src/data/chales.ts   (foto de cada chalé, campo foto, ex.: "/fotos/chale-1.jpg")
